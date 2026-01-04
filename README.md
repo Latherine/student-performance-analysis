@@ -1,6 +1,6 @@
 # student-performance-analysis
 
-: Analyzing the impact of school types and OECD class sizes on student exam scores using Python and external API integration.
+Analyzing the impact of school types and OECD class sizes on student exam scores using Python and external API integration.
 
 This repository contains a reproducible analysis and modeling workflow (primarily Jupyter notebooks and HTML output) that examines how school type and OECD-reported class sizes influence student exam performance. It includes data preparation, exploratory data analysis, statistical modeling, simple ML baselines, and examples of integrating external APIs for supplemental indicators.
 
